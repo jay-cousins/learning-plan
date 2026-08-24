@@ -9,7 +9,7 @@ AWS, Kubernetes, and cloud-native systems.
 |---|---|---|---|
 | Claude 101 | Anthropic Academy | June 2026 | ✅ Complete |
 | AI Fluency: Framework & Foundations | Anthropic Academy | June 2026 | ✅ Complete |
-| AI Capabilities and Limitations | Anthropic Academy | August 2026 | In progress |
+| AI Capabilities and Limitations | Anthropic Academy | August 2026 | ✅ Complete |
 | Claude Code 101 | Anthropic Academy | August 2026 | Planned |
 | AWS Cloud Practitioner Essentials | AWS | August 2026 | ✅ Complete |
 | AWS Certified Cloud Practitioner (CLF-C02) | AWS | September 2026 | In progress |
