@@ -7,16 +7,17 @@ AWS, Kubernetes, and cloud-native systems.
 
 | Course / Certification | Provider | Target Date | Status |
 |---|---|---|---|
-| Claude 101 | Anthropic Academy | June 2026 | ✅ Complete |
-| AI Fluency: Framework & Foundations | Anthropic Academy | June 2026 | ✅ Complete |
-| AI Capabilities and Limitations | Anthropic Academy | August 2026 | ✅ Complete |
-| Claude Code 101 | Anthropic Academy | September 2026 | ✅ Complete |
+| Claude 101 | Anthropic | June 2026 | ✅ Complete |
+| AI Fluency: Framework & Foundations | Anthropic | June 2026 | ✅ Complete |
+| AI Capabilities and Limitations | Anthropic | August 2026 | ✅ Complete |
+| Claude Code 101 | Anthropic | September 2026 | ✅ Complete |
+| Claude Code in action | Anthropic | October 2026 | In progress |
 | AWS Cloud Practitioner Essentials | AWS | August 2026 | ✅ Complete |
-| AWS Cloud Practitioner Technical Essentials | AWS | September 2026 | In progress |
-| AWS Certified Cloud Practitioner (CLF-C02) | AWS | September 2026 | In progress |
-| AWS Solutions Architect Associate (SAA-C03) | AWS | September 2026 | Planned |
-| KCNA | CNCF | September 2026 | Planned |
-| Claude Certified Architect Foundations (CCA-F) | Anthropic | September 2026 | Planned |
+| AWS Cloud Practitioner Technical Essentials | AWS | October 2026 | In progress |
+| AWS Certified Cloud Practitioner (CLF-C02) | AWS | October 2026 | In progress |
+| AWS Solutions Architect Associate (SAA-C03) | AWS | December 2026 | Planned |
+| KCNA | CNCF | TBC | Planned |
+| Claude Certified Architect Foundations (CCA-F) | Anthropic | TBC | Planned |
 
 ## Focus Areas
 
